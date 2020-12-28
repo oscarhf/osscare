@@ -1,0 +1,64 @@
+{
+	"QuESo": [
+		{
+			"KQI": "Size",
+			"Measures": [
+				{
+					"Measure": "numberofpartners"
+				},
+				{
+					"Measure": "numberofcommiters"
+				},
+				{
+					"Measure": "numberofcontributors"
+				}
+			]
+		},
+		{
+			"KQI": "Activeness",
+			"Measures": [
+				{
+					"Measure": "daysafterlastcommit"
+				},
+				{
+					"Measure": "numberofcommits"
+				},
+				{
+					"Measure": "numberofcommiters"
+				},
+				{
+					"Measure": "daysafterlastrelease"
+				},
+				{
+					"Measure": "numberofopenedbugs"
+				},
+				{
+					"Measure": "numberofclosedbugs"
+				},
+				{
+					"Measure": "versionhistory"
+				},
+				{
+					"Measure": "numberofmessagessent"
+				}
+			]
+		},
+		{
+			"KQI": "Visibility",
+			"Measures": [
+				{
+					"Measure": "numberofevents"
+				},
+				{
+					"Measure": "numberofdownloads"
+				},
+				{
+					"Measure": "numberofcommiters"
+				},
+				{
+					"Measure": "numberofprojecttypes"
+				}
+			]
+		}
+	]
+}

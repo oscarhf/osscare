@@ -1,0 +1,96 @@
+{
+	"OSSECO_name": "Elipse",
+	"OSSECO_observer_endpoint": "https//www.fakeeclipse.org/observer/",
+	"QuESo_KHIs": [
+		{
+			"KQI": "Size",
+			"Measures": [
+				{
+					"Measure": "numberofpartners",
+					"Endpoint": "http://oscarapps.eu.ngrok.io/OSSECOMeasuresRESTServer/measures/numberofpartners/",
+					"Timeset": ""
+				},
+				{
+					"Measure": "numberofcommiters",
+					"Endpoint": "http://oscarapps.eu.ngrok.io/OSSECOMeasuresRESTServer/measures/numberofcommiters/",
+					"Timeset": ""
+				},
+				{
+					"Measure": "numberofcontributors",
+					"Endpoint": "http://oscarapps.eu.ngrok.io/OSSECOMeasuresRESTServer/measures/numberofcontributors/",
+					"Timeset": ""
+				}
+			]
+		},
+		{
+			"KQI": "Activeness",
+			"Measures": [
+				{
+					"Measure": "daysafterlastcommit",
+					"Endpoint": "http://oscarapps.eu.ngrok.io/OSSECOMeasuresRESTServer/measures/daysafterlastcommit/",
+					"Timeset": ""
+				},
+				{
+					"Measure": "numberofcommits",
+					"Endpoint": "http://oscarapps.eu.ngrok.io/OSSECOMeasuresRESTServer/measures/numberofcommits/",
+					"Timeset": ""
+				},
+				{
+					"Measure": "numberofcommiters",
+					"Endpoint": "http://oscarapps.eu.ngrok.io/OSSECOMeasuresRESTServer/measures/numberofcommiters/",
+					"Timeset": ""
+				},
+				{
+					"Measure": "daysafterlastrelease",
+					"Endpoint": "http://oscarapps.eu.ngrok.io/OSSECOMeasuresRESTServer/measures/daysafterlastrelease/",
+					"Timeset": ""
+				},
+				{
+					"Measure": "numberofopenedbugs",
+					"Endpoint": "http://oscarapps.eu.ngrok.io/OSSECOMeasuresRESTServer/measures/numberofopenedbugs/",
+					"Timeset": ""
+				},
+				{
+					"Measure": "numberofclosedbugs",
+					"Endpoint": "http://oscarapps.eu.ngrok.io/OSSECOMeasuresRESTServer/measures/numberofclosedbugs/",
+					"Timeset": ""
+				},
+				{
+					"Measure": "versionhistory",
+					"Endpoint": "http://oscarapps.eu.ngrok.io/OSSECOMeasuresRESTServer/measures/versionhistory/",
+					"Timeset": ""
+				},
+				{
+					"Measure": "numberofmessagessent",
+					"Endpoint": "http://oscarapps.eu.ngrok.io/OSSECOMeasuresRESTServer/measures/numberofmessagessent/",
+					"Timeset": ""
+				}
+			]
+		},
+		{
+			"KQI": "Visibility",
+			"Measures": [
+				{
+					"Measure": "numberofevents",
+					"Endpoint": "http://oscarapps.eu.ngrok.io/OSSECOMeasuresRESTServer/measures/numberofevents/",
+					"Timeset": ""
+				},
+				{
+					"Measure": "numberofdownloads",
+					"Endpoint": "http://oscarapps.eu.ngrok.io/OSSECOMeasuresRESTServer/measures/numberofdownloads/",
+					"Timeset": ""
+				},
+				{
+					"Measure": "numberofcommiters",
+					"Endpoint": "http://oscarapps.eu.ngrok.io/OSSECOMeasuresRESTServer/measures/numberofpartners",
+					"Timeset": ""
+				},
+				{
+					"Measure": "numberofprojecttypes",
+					"Endpoint": "http://oscarapps.eu.ngrok.io/OSSECOMeasuresRESTServer/measures/numberofcommiters",
+					"Timeset": ""
+				}
+			]
+		}
+	]
+}

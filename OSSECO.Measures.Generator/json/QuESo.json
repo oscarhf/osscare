@@ -1,0 +1,89 @@
+{
+  "QuESo": [
+    {
+      "KQI": "Size",
+      "Measures": [
+        {
+          "Measure": "numberofcontributors"
+        },
+        {
+          "Measure": "numberofpassiveusers"
+        },
+        {
+          "Measure": "sizeofcommunitynetwork"
+        },
+        {
+          "Measure": "numberofpartners"
+        }
+      ]
+    },
+    {
+      "KQI": "Activeness",
+      "Measures": [
+        {
+          "Measure": "versionhistory"
+        },
+        {
+          "Measure": "numberofopenedbugs"
+        },
+        {
+          "Measure": "numberofclosedbugs"
+        },
+        {
+          "Measure": "daysafterlastcommit"
+        },
+        {
+          "Measure": "daysafterlastrelease"
+        },
+        {
+          "Measure": "numberofchangedfiles"
+        },
+        {
+          "Measure": "numberoffilesincommits"
+        },
+        {
+          "Measure": "numberofmessagessent"
+        },
+        {
+          "Measure": "numberofsentresponses"
+        },
+        {
+          "Measure": "numberofcommits"
+        },
+        {
+          "Measure": "numberofcommiters"
+        },
+        {
+          "Measure": "communitycommitrate"
+        },
+        {
+          "Measure": "numberofevents"
+        },
+        {
+          "Measure": "decliningpoint"
+        },
+        {
+          "Measure": "culminatingpoint"
+        },
+        {
+          "Measure": "timeliness"
+        }
+
+      ]
+    },
+    {
+      "KQI": "Heterogeneity",
+      "Measures": [
+        {
+          "Measure": "timezone"
+        },
+        {
+          "Measure": "memberactivitytypes"
+        },
+        {
+          "Measure": "numberOfProjectTypes"
+        }
+      ]
+    }
+  ]
+}

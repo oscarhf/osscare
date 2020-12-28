@@ -1,0 +1,96 @@
+{
+	"OSSECO_name": "Eclipse",
+	"OSSECO_observer_endpoint": "https//www.fakeeclipse.org/observer/",
+	"QuESo_KHIs": [
+		{
+			"KQI": "Size",
+			"Measures": [
+				{
+					"Measure": "numberofpartners",
+					"Endpoint": "http://gessi-sw.essi.upc.edu:8080/OSSECOMeasuresRESTServer/measures/numberofpartners/",
+					"Timeset": ""
+				},
+				{
+					"Measure": "numberofcommiters",
+					"Endpoint": "http://gessi-sw.essi.upc.edu:8080/OSSECOMeasuresRESTServer/measures/numberofcommiters/",
+					"Timeset": ""
+				},
+				{
+					"Measure": "numberofcontributors",
+					"Endpoint": "http://gessi-sw.essi.upc.edu:8080/OSSECOMeasuresRESTServer/measures/numberofcontributors/",
+					"Timeset": ""
+				}
+			]
+		},
+		{
+			"KQI": "Activeness",
+			"Measures": [
+				{
+					"Measure": "daysafterlastcommit",
+					"Endpoint": "http://gessi-sw.essi.upc.edu:8080/OSSECOMeasuresRESTServer/measures/daysafterlastcommit/",
+					"Timeset": ""
+				},
+				{
+					"Measure": "numberofcommits",
+					"Endpoint": "http://gessi-sw.essi.upc.edu:8080/OSSECOMeasuresRESTServer/measures/numberofcommits/",
+					"Timeset": ""
+				},
+				{
+					"Measure": "numberofcommiters",
+					"Endpoint": "http://gessi-sw.essi.upc.edu:8080/OSSECOMeasuresRESTServer/measures/numberofcommiters/",
+					"Timeset": ""
+				},
+				{
+					"Measure": "daysafterlastrelease",
+					"Endpoint": "http://gessi-sw.essi.upc.edu:8080/OSSECOMeasuresRESTServer/measures/daysafterlastrelease/",
+					"Timeset": ""
+				},
+				{
+					"Measure": "numberofopenedbugs",
+					"Endpoint": "http://gessi-sw.essi.upc.edu:8080/OSSECOMeasuresRESTServer/measures/numberofopenedbugs/",
+					"Timeset": ""
+				},
+				{
+					"Measure": "numberofclosedbugs",
+					"Endpoint": "http://gessi-sw.essi.upc.edu:8080/OSSECOMeasuresRESTServer/measures/numberofclosedbugs/",
+					"Timeset": ""
+				},
+				{
+					"Measure": "versionhistory",
+					"Endpoint": "http://gessi-sw.essi.upc.edu:8080/OSSECOMeasuresRESTServer/measures/versionhistory/",
+					"Timeset": ""
+				},
+				{
+					"Measure": "numberofmessagessent",
+					"Endpoint": "http://gessi-sw.essi.upc.edu:8080/OSSECOMeasuresRESTServer/measures/numberofmessagessent/",
+					"Timeset": ""
+				}
+			]
+		},
+		{
+			"KQI": "Visibility",
+			"Measures": [
+				{
+					"Measure": "numberofevents",
+					"Endpoint": "http://gessi-sw.essi.upc.edu:8080/OSSECOMeasuresRESTServer/measures/numberofevents/",
+					"Timeset": ""
+				},
+				{
+					"Measure": "numberofdownloads",
+					"Endpoint": "http://gessi-sw.essi.upc.edu:8080/OSSECOMeasuresRESTServer/measures/numberofdownloads/",
+					"Timeset": ""
+				},
+				{
+					"Measure": "numberofcommiters",
+					"Endpoint": "http://gessi-sw.essi.upc.edu:8080/OSSECOMeasuresRESTServer/measures/numberofpartners",
+					"Timeset": ""
+				},
+				{
+					"Measure": "numberofprojecttypes",
+					"Endpoint": "http://gessi-sw.essi.upc.edu:8080/OSSECOMeasuresRESTServer/measures/numberofcommiters",
+					"Timeset": ""
+				}
+			]
+		}
+	]
+}

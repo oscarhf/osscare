@@ -1,0 +1,14 @@
+src\gessi\plateoss\osseco\sourceconn\ActivityTypesCrawler.java:		logger.info("Visited: {}", page.getWebURL().getURL());
+src\gessi\plateoss\osseco\sourceconn\ActivityTypesCrawler.java:			System.out.println("Visited: " + page.getWebURL().getURL());
+src\gessi\plateoss\osseco\sourceconn\ActivityTypesCrawler.java:	 * .select("th+td:matches(^[\\p{L}\\p{M}\\p{Mn}\\.\\s]+$)"); ArrayList<String>
+src\gessi\plateoss\osseco\sourceconn\CommunityCommitRateCrawler.java:		logger.info("Visited: {}", page.getWebURL().getURL());
+src\gessi\plateoss\osseco\sourceconn\CommunityCommitRateCrawler.java:		Elements tableElements = docT.select("td:matches([0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9])");
+src\gessi\plateoss\osseco\sourceconn\DateLastCommitCrawler.java:		logger.info("Visited: {}", page.getWebURL().getURL());
+src\gessi\plateoss\osseco\sourceconn\DateLastReleaseCrawler.java:		logger.info("Visited: {}", page.getWebURL().getURL());
+src\gessi\plateoss\osseco\sourceconn\NumberOfDownloadsCrawler.java:		logger.info("Visited: {}", page.getWebURL().getURL());
+src\gessi\plateoss\osseco\sourceconn\NumberOfEventsCrawler.java:		logger.info("Visited: {}", page.getWebURL().getURL());
+src\gessi\plateoss\osseco\sourceconn\NumberOfEventsCrawler.java:			System.out.println("Visited: "+ page.getWebURL().getURL());			
+src\gessi\plateoss\osseco\sourceconn\NumberOfPartnersCrawler.java:		logger.info("Visited: {}", page.getWebURL().getURL());
+src\gessi\plateoss\osseco\sourceconn\ProjectTypesCrawler.java:		logger.info("Visited: {}", page.getWebURL().getURL());
+src\gessi\plateoss\osseco\sourceconn\ProjectTypesCrawler.java:		// System.out.println("Visited: " + page.getWebURL().getURL());
+src\gessi\plateoss\osseco\sourceconn\VersionHistoryCrawler.java:		logger.info("Visited: {}", page.getWebURL().getURL());

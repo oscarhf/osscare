@@ -1,0 +1,1 @@
+src\gessi\plateoss\queso\bk\QuESoModel.java:			Object obj = parser.parse(new FileReader("./json/QuESo.json"));
